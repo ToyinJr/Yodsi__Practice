@@ -239,6 +239,8 @@ body {
 .section7_images {
     padding-top: 2em;
     display: flex;
+    align-items: center;
+    justify-content: center;
     justify-content: space-between;
 }
 
@@ -374,10 +376,12 @@ body {
 
     .section7_images {
         transform: scale(0.7);
+        justify-content: space-evenly;
     }
 
     .section7_images2 {
-        transform: scale(0.6);
+        padding-top: 0;
+        transform: scale(0.5);
     }
     
 }
