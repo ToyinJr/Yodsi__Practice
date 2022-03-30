@@ -76,7 +76,7 @@ body {
 
 
 
-.wavyshape1 {
+/* .wavyshape1 {
     position: relative;
     bottom: 0;
     left: 0;
@@ -95,7 +95,7 @@ body {
 
 .wavyshape1 .shape-fill {
     fill: #FFFFFF;
-}
+} */
 
 
 /* ------------------------------------------------------------------------ */
@@ -145,7 +145,7 @@ body {
     padding-top: 1em;
 }
 
-.s4_card1 {
+.s4_card1, .s4_card4 {
     height: fit-content;
 }
 
